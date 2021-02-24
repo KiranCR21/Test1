@@ -7,3 +7,4 @@ one line
 3
 abc
 123
+bcd
