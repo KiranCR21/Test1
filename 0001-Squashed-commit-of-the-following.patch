@@ -1,0 +1,41 @@
+From 2492eebaeeb82ba2dd191f7f0fb7badd7e8dab5a Mon Sep 17 00:00:00 2001
+From: kiran cr <kirancr13.sr@gmail.com>
+Date: Wed, 24 Feb 2021 14:48:17 +0530
+Subject: [PATCH 1/2] Squashed commit of the following:
+
+commit 972efffe0ee77decc57601d823b28553cf355c63
+Author: kiran cr <kirancr13.sr@gmail.com>
+Date:   Wed Feb 24 13:53:41 2021 +0530
+
+     new line added
+
+commit bf6ac12c2ec3565af7a6987300c1c60832321052
+Author: kiran cr <kirancr13.sr@gmail.com>
+Date:   Wed Feb 24 01:07:06 2021 +0530
+
+     new line added
+
+# Conflicts:
+#	Hai.txt
+---
+ Hai.txt | 6 +++++-
+ 1 file changed, 5 insertions(+), 1 deletion(-)
+
+diff --git a/Hai.txt b/Hai.txt
+index e03182c..02c6a61 100644
+--- a/Hai.txt
++++ b/Hai.txt
+@@ -1,4 +1,8 @@
+ 1
+ 2
++<<<<<<< HEAD
+ 3abc
+-one line
+\ No newline at end of file
++one line
++=======
++3
++abc
+-- 
+2.30.0.windows.2
+

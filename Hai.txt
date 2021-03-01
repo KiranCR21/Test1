@@ -1,0 +1,12 @@
+1
+2
+<<<<<<< HEAD
+3abc
+one line
+=======
+3
+abc
+123
+bcd
+111
+add new line1
