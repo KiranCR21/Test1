@@ -2,3 +2,8 @@ hai
 hello
 hai 1
 
+first line
+second
+for automatic merge
+
+
