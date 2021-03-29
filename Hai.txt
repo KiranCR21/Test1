@@ -26,6 +26,9 @@ new change2
 3
 close
 
+1 change for stash
+11
+
 
 new line for automate in hai
 make change
