@@ -10,4 +10,7 @@ adding a line
 
 ## start
 
+show dufrence between directories
+
+
 ##close
