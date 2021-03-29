@@ -12,8 +12,14 @@ bcd
 add new line1
 
 change1
+<<<<<<< HEAD
 112
 final123
 changing folder
 11
+=======
+11223
+final1233
+changing
+>>>>>>> master
 close
