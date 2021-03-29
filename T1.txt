@@ -2,19 +2,10 @@ hai. this is first line
 
 changed two line
 
-# Start
+1. Start
 
-#first
+2. change
 
-adding a line
+3. update
 
-## start
-
-show dufrence between directories
-
-
-
-
-##close
-
-closing directory change
+4. close
