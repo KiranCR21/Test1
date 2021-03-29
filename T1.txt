@@ -21,9 +21,19 @@ adding a change
 
 5. report
 
+<<<<<<< HEAD
 modifying for rebasing
 change for rebasing
+<<<<<<< HEAD
 
 
 new line for rebasing in master
 change2
+=======
+=======
+
+rebasing1
+chnages2
+chnages3
+>>>>>>> 80006c5 (new lines added)
+>>>>>>> 6244eb8 (new change)
