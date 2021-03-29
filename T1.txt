@@ -36,4 +36,12 @@ rebasing1
 chnages2
 chnages3
 >>>>>>> 80006c5 (new lines added)
+<<<<<<< HEAD
 >>>>>>> 6244eb8 (new change)
+=======
+
+
+first change for rebasing
+change1
+
+>>>>>>> 2e2db66 (new line added for rebasing in branch1)
