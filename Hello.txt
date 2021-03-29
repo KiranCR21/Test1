@@ -7,3 +7,7 @@ second
 for automatic merge
 
 
+adding line for rebasing
+change1
+2 for rebase
+
