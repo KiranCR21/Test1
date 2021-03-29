@@ -21,5 +21,7 @@ changing folder
 11223
 final1233
 changing
->>>>>>> master
+my new change1
+new change2
+3
 close
