@@ -60,4 +60,8 @@ test diff2
 one change
 
 Chnage for branch
+<<<<<<< HEAD
+>>>>>>> branch4
+=======
+11 change
 >>>>>>> branch4
