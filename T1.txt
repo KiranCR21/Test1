@@ -21,6 +21,7 @@ adding a change
 
 5. report
 
+<<<<<<< HEAD
 modifying for rebasing
 change for rebasing
 
@@ -54,3 +55,9 @@ test diff2
 22
 23
 
+=======
+
+one change
+
+Chnage for branch
+>>>>>>> branch4
