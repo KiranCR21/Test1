@@ -24,9 +24,11 @@ adding a change
 <<<<<<< HEAD
 modifying for rebasing
 change for rebasing
+<<<<<<< HEAD
 
 
 new line for rebasing in master
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 change2
 =======
@@ -65,3 +67,22 @@ Chnage for branch
 =======
 11 change
 >>>>>>> branch4
+=======
+change2
+=======
+=======
+
+rebasing1
+chnages2
+chnages3
+>>>>>>> 80006c5 (new lines added)
+<<<<<<< HEAD
+>>>>>>> 6244eb8 (new change)
+=======
+
+
+first change for rebasing
+change1
+
+>>>>>>> 2e2db66 (new line added for rebasing in branch1)
+>>>>>>> branch1

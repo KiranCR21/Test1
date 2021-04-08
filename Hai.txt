@@ -26,9 +26,16 @@ new change2
 3
 close
 
+<<<<<<< HEAD
 1 change for stash
 11
 
+=======
+11
+
+
+113
+>>>>>>> branch1
 
 new line for automate in hai
 make change
