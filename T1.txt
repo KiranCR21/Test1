@@ -63,6 +63,7 @@ one change
 
 Chnage for branch
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> branch4
 =======
 11 change
@@ -86,3 +87,8 @@ change1
 
 >>>>>>> 2e2db66 (new line added for rebasing in branch1)
 >>>>>>> branch1
+=======
+11 change
+
+22 change
+>>>>>>> branch4
