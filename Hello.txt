@@ -4,10 +4,12 @@ hai 1
 
 first line
 second
-for automatic merge
+for automatic merg
 
 
 adding line for rebasing
 change1
 2 for rebase
+
+change for mege
 
