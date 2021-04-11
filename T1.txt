@@ -94,4 +94,4 @@ change1
 >>>>>>> branch4
 
 
-changes in file
+changes in file11
