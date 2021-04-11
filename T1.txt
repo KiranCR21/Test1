@@ -92,3 +92,6 @@ change1
 
 22 change
 >>>>>>> branch4
+
+
+changes in file
